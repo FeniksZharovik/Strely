@@ -1,3 +1,5 @@
+[FeZ-2Sy]
+
 # Mini LLM from Scratch (PyTorch + BPE)
 
 A lightweight GPT-style language model built from scratch using PyTorch and a Byte Pair Encoding (BPE) tokenizer. This project is designed to run locally on CPU and demonstrates the full pipeline of training, evaluation, and text generation.
